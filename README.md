@@ -107,3 +107,5 @@ plt.show()
 <img width="490" height="393" alt="image" src="https://github.com/user-attachments/assets/e85ec491-1dab-4ea1-ba2f-81740d8dadec" />
 
 ## Result
+
+Thus, the experiment helped us understand how to visualize data using Matplotlib and Seaborn libraries in Python. Matplotlib was used to create different types of graphs and charts, while Seaborn helped create attractive and informative statistical visualizations. Through this experiment, we learned how to represent data graphically, identify patterns, compare values, and understand data more effectively. Hence, the objective was successfully achieved.
